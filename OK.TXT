@@ -1,0 +1,31 @@
+Fertility
+Rainfall pattern
+Land size
+C₃ Plants (e.g., rice, wheat): Tend to contribute more to carbon footprints due to their lower efficiency, higher water and fertilizer needs, and methane emissions (in cases like rice).
+C₄ Plants (e.g., maize, sugarcane): Generally have a lower carbon footprint due to their efficiency in photosynthesis, lower input requirements, and higher adaptability to adverse conditions.
+In terms of global agricultural sustainability, improving the efficiency of C₃ plant farming or shifting to more sustainable practices with C₄ crops can help reduce overall carbon footprints.
+
+C₃ Plants:
+Often require larger areas to achieve the same productivity as C₄ plants, which leads to more land-clearing and deforestation, contributing to carbon emissions.
+C₄ Plants:
+More productive per unit area in challenging climates, reducing the need for land conversion.
+
+
+Jahnavi
+disadvantage 1
+management complexity and effort - manage that shit
+
+2nd
+sudden shift from monocropping to crop rotation - reduced yield
+gather cropping history and suggest depending on that . if a farmer has already tried crop rotation before and still doesn't get desired results. that will be a different category. and a farmer with sole monocropping will have different suggestions
+
+3rd
+crop rotation
+lack of knowledge. crop changes pest changes. which can be unknown to farmer. alert beforehand and suggest pesticide and blah blah stuff
+
+-record every years profits and yields.
+
+
+Meet
+
+govt schemes\loans\NGO
