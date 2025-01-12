@@ -23,9 +23,12 @@ gather cropping history and suggest depending on that . if a farmer has already 
 crop rotation
 lack of knowledge. crop changes pest changes. which can be unknown to farmer. alert beforehand and suggest pesticide and blah blah stuff
 
--record every years profits and yields.
+-record/track every years profits and yields.
+
+-show recently published good farming articles/podcasts for knowledge/awareness and stay upto date with modern and sustainable farming practices (since many indian farmers still depend on old methods).
+
+-chatting/frnd (tinder ?) group of farmers (social well being - sustainable).
 
 
 Meet
-
-govt schemes\loans\NGO
+govt schemes\loans\NGO. dont go to moneylenders.
