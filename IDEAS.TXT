@@ -1,6 +1,26 @@
+Vaibhav Bakshi
+Factors for crop rotation
 Fertility
 Rainfall pattern
 Land size
+pH of Soil
+Ratio of N, P, K presence in soil
+Temperature, Humidit, Rainfall 
+Dependent on Location (As said by Sai)
+
+Considerations :-
+1) Nutrients requirements - Since Nitrogen presence is one of the factors, it should be seen how much it is present in the soil. Leguminous plants as Sai said can be used to increase Nitrogen. Further more nutrient demanding crops should be rotated with less demanding ones. An example can be to use leguminous plants and then use a high - yielding crop which utlizes this nitrogen. Or use a crop which doesn't utilize nitrogen that much for future uses.
+2) If plants are having dieseases then it will cause decrease in yield. Moreover, they may be affected by pests. Hence pest life cycle should be studied well so as to grow crops at appropiate times. A great example is the weed cycles.
+3) Soil Structure and Aeration.
+4) As Sai said about use of fertiliser, NPK fertiliser can be used for replenishing the N, P, K.
+
+---C3 and C4 plants Information---
+C₃ Plants (e.g., rice, wheat): Tend to contribute more to carbon footprints due to their lower efficiency, higher water and fertilizer needs, and methane emissions (in cases like rice).
+C₄ Plants (e.g., maize, sugarcane): Generally have a lower carbon footprint due to their efficiency in photosynthesis, lower input requirements, and higher adaptability to adverse conditions.
+In terms of global agricultural sustainability, improving the efficiency of C₃ plant farming or shifting to more sustainable practices with C₄ crops can help reduce overall carbon footprints.
+
+C₃ Plants: Often require larger areas to achieve the same productivity as C₄ plants, which leads to more land-clearing and deforestation, contributing to carbon emissions.
+C₄ Plants: More productive per unit area in challenging climates, reducing the need for land conversion.
 
 Jahnavi
 disadvantage 1
@@ -14,9 +34,54 @@ gather cropping history and suggest depending on that . if a farmer has already 
 crop rotation
 lack of knowledge. crop changes pest changes. which can be unknown to farmer. alert beforehand and suggest pesticide and blah blah stuff
 
--record every years profits and yields.
+-record/track every years profits and yields.
+
+-show recently published good farming articles/podcasts for knowledge/awareness and stay upto date with modern and sustainable farming practices (since many indian farmers still depend on old methods).
+
+-chatting/frnd (tinder ?) group of farmers (social well being - sustainable)..
 
 
 Meet
+govt schemes\loans\NGO. dont go to moneylenders.
 
-govt schemes\loans\NGO
+SAI : 
+C3 and C4(a bit useful info on them):
+c3
+-85% plants, rice,legumes,wheat
+-best in cool climate
+-not effiecient in hot and arid climate
+-spring and fall time best time to grow
+
+c4
+-maize,sugarcane,sorghum
+-highe tolerance to heat
+-best grown in summer months
+
+so based on above info we have to be specific on the months to grow the proper crops
+
+
+NOTE
+-After say a leguminous plaint is grown which is a c3 plant..it usually inc the amount o nitrogen in the soil,..for the subsequent growth of c4 plant loke corn is the best!!
+-Check the nutrient levels as diff crops deplete diff nutrients, if a plant has depleted too much of a particular nutrints...recommend farmers fertilizer for better yield
+-Match the market demand..give notices to farmers of which crop is in demand for better feedbacks from users(juat an idea) .
+
+Disadvantages
+-CLIMATE IS UNPREDICTABLE
+-soil nutrient content..improper soil rotation leads to erosion
+-lack of proper knowledge regarding this topic(can be overcome by jahnavis idea)
+-improper irrigation ...as crops change so does their water intake requirement
+
+THINGS TO KEEP IN MIND:
+
+BEFORE FARMER BEGINS
+possible qs that can be asked might be
+-LOCATION(MOST IMP!)
+-PREVIOUS CROP
+-TYPE OF SOIL(IF ANY KNOWLEDGE)
+
+IN THE PROCESS OF FARMING
+(FARMERS NEED HELP WITH)
+-which crop to use after what..when...if leave any gap after harvesting a particular crop
+-pest control,weed contro,fertilisers (when to use)....collecting data of the soil will help achieve this I think
+-kind of water irriagation...c4 need less water as compared to c3..and if it rains,by reading moisture content in soil..can recommend how much water required
+-potential disease(so my mom does gardening ok..so like the leaves of certain plants look yellowish if they have less magnesium content in the soil..so npk is a good fertiliser...same goes for diff nutrirnt deficinecies(..they all show diif symptoms...we can provide this info too)
