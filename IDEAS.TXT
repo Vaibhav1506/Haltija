@@ -9,8 +9,10 @@ Temperature, Humidit, Rainfall
 Dependent on Location (As said by Sai)
 
 Considerations :-
-1) Nutrients requirements - Since Nitrogen presence is one of the factors, it should be seen how much it is present in the soil. Leguminous plants as Sai said can be used to increase Nitrogen. Further more nutrient demanding crops should be rotated with less demanding ones. An example can be to use leguminous plants and then use a high - yielding crop which utlizes this nitrogen. Or use a crop which doesn't utilize nitrogen that much for future uses.
-2) If plants are having dieseases then it will cause decrease in yield. Moreover, they may be affected by pests. Hence pest life cycle should be studied well so as to grow crops at appropiate times. A great example is the weed cycles.
+1) Nutrients requirements - Since Nitrogen presence is one of the factors, it should be seen how much it is present in the soil. Leguminous plants as Sai said can be used to increase Nitrogen. 
+Further more nutrient demanding crops should be rotated with less demanding ones. An example can be to use leguminous plants and then use a high - yielding crop which utlizes this nitrogen. Or use a crop which doesn't utilize nitrogen that much for future uses.
+2) If plants are having dieseases then it will cause decrease in yield. 
+Moreover, they may be affected by pests. Hence pest life cycle should be studied well so as to grow crops at appropiate times. A great example is the weed cycles.
 3) Soil Structure and Aeration.
 4) As Sai said about use of fertiliser, NPK fertiliser can be used for replenishing the N, P, K.
 
@@ -28,7 +30,9 @@ management complexity and effort - manage that shit
 
 2nd
 sudden shift from monocropping to crop rotation - reduced yield
-gather cropping history and suggest depending on that . if a farmer has already tried crop rotation before and still doesn't get desired results. that will be a different category. and a farmer with sole monocropping will have different suggestions
+gather cropping history and suggest depending on that . 
+if a farmer has already tried crop rotation before and still doesn't get desired results. 
+that will be a different category. and a farmer with sole monocropping will have different suggestions
 
 3rd
 crop rotation
@@ -36,13 +40,22 @@ lack of knowledge. crop changes pest changes. which can be unknown to farmer. al
 
 -record/track every years profits and yields.
 
--show recently published good farming articles/podcasts for knowledge/awareness and stay upto date with modern and sustainable farming practices (since many indian farmers still depend on old methods).
+-show recently published good farming articles/podcasts for knowledge/awareness and stay upto date with modern and sustainable
+ farming practices (since many indian farmers still depend on old methods).
 
 -chatting/frnd (tinder ?) group of farmers (social well being - sustainable)..
 
 
 Meet
 govt schemes\loans\NGO. dont go to moneylenders.
+-Creating a crop rotation yearly pattern plan over 5-10 years,which will make the loss minimal and over the time it will be profitable.
+-Visual suggestion of setting crops to get maximum yield, effective implementation of crop rotation method.
+-Suggesting sustainable practices in all the farming process - ploughing, irriagation,harvesting etc.. 
+-Keeping track of Carbon footprints.
+-Spreading awareness among farmers.
+-Suggesting crops according to the type of soil and region.
+-Graphically representing the change in fertility and carbon footprint over the years.
+-Text to speech support in local language, and also voice command(for accessibility)
 
 SAI : 
 C3 and C4(a bit useful info on them):
