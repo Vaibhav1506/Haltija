@@ -1,16 +1,26 @@
-my name is meet
+Vaibhav Bakshi
+Factors for crop rotation
 Fertility
 Rainfall pattern
 Land size
+pH of Soil
+Ratio of N, P, K presence in soil
+Temperature, Humidit, Rainfall 
+Dependent on Location (As said by Sai)
+
+Considerations :-
+1) Nutrients requirements - Since Nitrogen presence is one of the factors, it should be seen how much it is present in the soil. Leguminous plants as Sai said can be used to increase Nitrogen. Further more nutrient demanding crops should be rotated with less demanding ones. An example can be to use leguminous plants and then use a high - yielding crop which utlizes this nitrogen. Or use a crop which doesn't utilize nitrogen that much for future uses.
+2) If plants are having dieseases then it will cause decrease in yield. Moreover, they may be affected by pests. Hence pest life cycle should be studied well so as to grow crops at appropiate times. A great example is the weed cycles.
+3) Soil Structure and Aeration.
+4) As Sai said about use of fertiliser, NPK fertiliser can be used for replenishing the N, P, K.
+
+---C3 and C4 plants Information---
 C₃ Plants (e.g., rice, wheat): Tend to contribute more to carbon footprints due to their lower efficiency, higher water and fertilizer needs, and methane emissions (in cases like rice).
 C₄ Plants (e.g., maize, sugarcane): Generally have a lower carbon footprint due to their efficiency in photosynthesis, lower input requirements, and higher adaptability to adverse conditions.
 In terms of global agricultural sustainability, improving the efficiency of C₃ plant farming or shifting to more sustainable practices with C₄ crops can help reduce overall carbon footprints.
 
-C₃ Plants:
-Often require larger areas to achieve the same productivity as C₄ plants, which leads to more land-clearing and deforestation, contributing to carbon emissions.
-C₄ Plants:
-More productive per unit area in challenging climates, reducing the need for land conversion.
-
+C₃ Plants: Often require larger areas to achieve the same productivity as C₄ plants, which leads to more land-clearing and deforestation, contributing to carbon emissions.
+C₄ Plants: More productive per unit area in challenging climates, reducing the need for land conversion.
 
 Jahnavi
 disadvantage 1
