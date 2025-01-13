@@ -47,7 +47,7 @@ lack of knowledge. crop changes pest changes. which can be unknown to farmer. al
 
 
 Meet
-govt schemes\loans\NGO. dont go to moneylenders.
+-govt schemes\loans\NGO. dont go to moneylenders.
 -Creating a crop rotation yearly pattern plan over 5-10 years,which will make the loss minimal and over the time it will be profitable.
 -Visual suggestion of setting crops to get maximum yield, effective implementation of crop rotation method.
 -Suggesting sustainable practices in all the farming process - ploughing, irriagation,harvesting etc.. 
@@ -57,6 +57,9 @@ govt schemes\loans\NGO. dont go to moneylenders.
 -Graphically representing the change in fertility and carbon footprint over the years.
 -Text to speech support in local language, and also voice command(for accessibility)
 -Suggesting resources
+-Farmers income vs time visualization also predicting how much time will it require for farmer to pay the debt.
+-Suggesting potential markets where farmers can sell.
+-overall taking farmers economical data to help him to earn properly with sustainable approach.
 
 SAI : 
 C3 and C4(a bit useful info on them):
