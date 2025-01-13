@@ -56,6 +56,7 @@ govt schemes\loans\NGO. dont go to moneylenders.
 -Suggesting crops according to the type of soil and region.
 -Graphically representing the change in fertility and carbon footprint over the years.
 -Text to speech support in local language, and also voice command(for accessibility)
+-Suggesting resources
 
 SAI : 
 C3 and C4(a bit useful info on them):
