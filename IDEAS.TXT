@@ -3,12 +3,9 @@ disadvantag management complexity and effort --(Sol)Suggesting sustainable pract
 sudden shift from monocropping to crop rotation--(Sol)Creating a crop rotation yearly pattern plan over 5-10 years,which will make the loss minimal and over the time it will be profitable.
 -To get accurate data , farmer can directly upload soil report and we can extract the data from the report.
 -record/track every years profits and yields,Farmers income vs time visualization also predicting how much time will it require for farmer to pay the debt.
--show recently published good farming articles/podcasts for knowledge/awareness and stay upto date with modern and sustainable
- farming practices (since many indian farmers still depend on old methods).
 -Keeping track of Carbon footprints.
 -Visual suggestion of setting crops to get maximum yield, effective implementation of crop rotation method.
--Suggesting potential markets where farmers can sell and suggesting resources .
-Text to speech support in local language, and also voice command(for accessibility).
+
 
 Vaibhav Bakshi
 Factors for crop rotation
