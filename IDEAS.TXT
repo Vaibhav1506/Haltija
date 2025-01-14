@@ -5,6 +5,10 @@ sudden shift from monocropping to crop rotation--(Sol)Creating a crop rotation y
 -record/track every years profits and yields,Farmers income vs time visualization also predicting how much time will it require for farmer to pay the debt.
 -Keeping track of Carbon footprints.
 -Visual suggestion of setting crops to get maximum yield, effective implementation of crop rotation method.
+-show recently published good farming articles/podcasts for knowledge/awareness and stay upto date with modern and sustainable
+ farming practices (since many indian farmers still depend on old methods).
+-Narrator and Voice command
+-Suggesting potential markets where farmers can sell, taking loan ,goverment schemes and resources at best price.
 
 
 Vaibhav Bakshi
